@@ -1,0 +1,10 @@
+body {
+    background: rgb(242,246,43);
+    background: linear-gradient(90deg, rgba(242,246,43,1) 0%, rgba(102,221,83,1) 35%, rgba(0,212,255,1) 100%);
+}
+.gif {
+    padding-top: 0 px;
+    padding-left: 900px;
+    width: 100px;
+    padding-bottom: 50px;
+}
